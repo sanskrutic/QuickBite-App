@@ -20,6 +20,7 @@ A fast and seamless food delivery web app built with the MERN Stack (MongoDB, Ex
 
 
 🛠️ Tech Stack
+
 Frontend: React.js, Bootstrap CSS
 
 Backend: Node.js, Express.js
